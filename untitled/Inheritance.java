@@ -17,7 +17,7 @@ class Dog extends Animal {
 }
 
 // Main class
-public class Maininheritance {
+public class Main {
   public static void main(String[] args) {
       // Creating an instance of Dog
       Dog myDog = new Dog();
