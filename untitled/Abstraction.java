@@ -23,9 +23,11 @@ class Rectangle extends Shape {
 public class Main {
     public static void main(String[] args) {
         Shape shape1 = new Circle();
-        shape1.draw();  // Output: Drawing a circle
+        shape1.draw(); 
+        // Output: Drawing a circle
 
         Shape shape2 = new Rectangle();
-        shape2.draw();  // Output: Drawing a rectangle
+        shape2.draw(); 
+        // Output: Drawing a rectangle
     }
 }
